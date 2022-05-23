@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IconicDexter
-- 👀 I’m interested in Web and Mobile Development and Cyber Security 
-- 🌱 I’m currently learning React, Flutter and Next.js
+- 👀 I’m interested in Web and Mobile Development frontend and backend using NodeJS(React, React Native) 
+- 🌱 I’m currently learning Next.js and Vue.js
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me @kennymwendwa67@gmail.com
 
