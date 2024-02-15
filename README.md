@@ -1,4 +1,4 @@
-### Oh Hi there, I am Kennedy Mwendwa, a Software Developer. I love open source.<br>
+### Hello there, I am Kennedy Mwendwa, a Software Developer. I love open source.<br>
 
 ## 🌐 Socials
 
